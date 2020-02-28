@@ -1,3 +1,3 @@
 # Examples
 
-200229 - added ATX Model for predicting adoption likelihood based on age.
+200229 - added ATX Model for predicting adoption probability based on age.
